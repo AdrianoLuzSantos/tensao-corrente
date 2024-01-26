@@ -1,6 +1,6 @@
 { 
 	"corrente": 30,
-	"tensão": 50,
+	"tensão": 100,
 	"status": "re" 
 	
 }
