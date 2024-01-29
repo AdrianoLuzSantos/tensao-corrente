@@ -1,8 +1,8 @@
 { 
-	"redecorrente": 30,
-	"redetensao": 127,
-	"placacorrente": 10,
-	"placatensao": 110,
-	"status": "placa" 
+	"redecorrente": 20,
+	"redetensao": 220,
+	"placacorrente": 15,
+	"placatensao": 127,
+	"status": "rede" 
 	
 }
